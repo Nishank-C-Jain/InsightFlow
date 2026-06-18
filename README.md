@@ -126,7 +126,7 @@ Visuals:
 
 ### Executive Overview
 
-![Executive Overview](screenshot/executive_overview.png)
+![Executive Overview](./screenshot/executive_overview.png)
 
 ---
 
@@ -148,7 +148,7 @@ Visuals:
 
 ### Product & Customer Analysis
 
-![Product Analysis](screenshot/product_analysis.png)
+![Product Analysis](./screenshot/product_analysis.png)
 
 ---
 
@@ -170,7 +170,7 @@ Visuals:
 
 ### Regional & Shipping Analysis
 
-![Regional Analysis](screenshot/regional_analysis.png)
+![Regional Analysis](./screenshot/regional_analysis.png)
 
 ---
 
